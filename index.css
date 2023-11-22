@@ -1,0 +1,35 @@
+
+.title {
+    text-align: center;
+}
+
+.wrapper {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ gap: 7px;
+}
+
+.btn {
+    width: 100px;
+    border: none;
+    background-color:green;
+    color: white;
+    font-weight: 700;
+    height: 30px;
+}
+
+#date {
+    width: 100px;
+    height: 30px;
+}
+
+.error {
+    color: red;
+    
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+}
